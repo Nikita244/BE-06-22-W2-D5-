@@ -1,0 +1,5 @@
+Tipologia: Libro *** Codice ISBN: 87695236 *** Titolo: Lo straniero *** Anno: 1942 *** Pagine: 120 *** Autore: Albert Camus *** Genere: romanzo
+Tipologia: Libro *** Codice ISBN: 745360000 *** Titolo: Il piccolo principe *** Anno: 1943 *** Pagine: 85 *** Autore: Antoine de Saint-Exupéry *** Genere: racconto
+Tipologia: Rivista *** Codice ISBN: 452h2r *** Titolo: Vogue *** Anno: 2023 *** Pagine: 180 *** Periodicità : MENSILE
+Tipologia: Rivista *** Codice ISBN: trr875 *** Titolo: Trekking *** Anno: 2023 *** Pagine: 55 *** Periodicità : SEMESTRALE
+Tipologia: Libro *** Codice ISBN: 004578 *** Titolo: Sei personaggi in cerca d'autore *** Anno: 1921 *** Pagine: 135 *** Autore: Luigi Pirandello *** Genere: dramma
